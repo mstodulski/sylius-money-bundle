@@ -27,7 +27,7 @@
     "require": {
         "php": "^7.4 || ^8.0",
         "mstodulski/sylius-resource-bundle": "8.*",
-        "symfony/framework-bundle": "^4.4 || ^5.2",
+        "symfony/framework-bundle": "^4.4 || ^5.3",
         "symfony/intl": "^4.4 || ^5.2",
         "symfony/templating": "^4.4 || ^5.2",
         "webmozart/assert": "^1.8"
